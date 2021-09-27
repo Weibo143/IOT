@@ -6,7 +6,7 @@
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(Pictures/background.png);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(background.png);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -331,7 +331,7 @@ h3{
 .Introheader{
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(Pictures/background2.png);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(background2.png);
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -374,7 +374,7 @@ h3{
 .Sumheader{
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(Pictures/background3.png);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(background3.png);
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -408,7 +408,7 @@ h3{
 .resheader{
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(Pictures/background4.png);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(background4.png);
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -434,7 +434,7 @@ h3{
 .extheader{
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(Pictures/background5.png);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(background5.png);
     background-position: center;
     background-size: cover;
     text-align: center;
