@@ -396,6 +396,7 @@ h3{
 }
 .sum-col img{
     height: 10%;
+	position: center;
 }
 .sum-col h1{
     padding-top: 0;
